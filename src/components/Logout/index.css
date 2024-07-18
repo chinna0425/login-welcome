@@ -1,0 +1,17 @@
+.button {
+  color: #303150;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  padding: 18px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  border-width: 0px;
+}
+.heading {
+  color: #ffffff;
+  font-size: 32px;
+  font-weight: 600;
+  font-family: 'Roboto';
+}
